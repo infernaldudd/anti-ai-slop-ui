@@ -42,15 +42,6 @@ Copy the `anti-ai-slop/` folder (with `SKILL.md`) into `~/.claude/skills/` or `~
 
 Project screenshots showing the skill applied — add yours here.
 
-### Unreleased app — before / after
-
-| Before | After |
-|---|---|
-| ![app-shot-1](assets/app-shot-1.png) | ![app-shot-3](assets/app-shot-3.png) |
-| ![app-shot-2](assets/app-shot-2.png) | ![app-shot-4](assets/app-shot-4.png) |
-
-*Descriptions pending — screenshots added first, notes coming.*
-
 ### Desktop setup — before / after
 
 Top-half crops of the workspace desktop (wallpaper + menu bar region), before and after:
