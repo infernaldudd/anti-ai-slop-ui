@@ -42,14 +42,12 @@ Copy the `anti-ai-slop/` folder (with `SKILL.md`) into `~/.claude/skills/` or `~
 
 Project screenshots showing the skill applied — add yours here.
 
-### Unreleased app
+### Unreleased app — before / after
 
-| Screen | Screenshot |
+| Before | After |
 |---|---|
-| app-shot-1 | ![app-shot-1](assets/app-shot-1.png) |
-| app-shot-2 | ![app-shot-2](assets/app-shot-2.png) |
-| app-shot-3 | ![app-shot-3](assets/app-shot-3.png) |
-| app-shot-4 | ![app-shot-4](assets/app-shot-4.png) |
+| ![app-shot-1](assets/app-shot-1.png) | ![app-shot-3](assets/app-shot-3.png) |
+| ![app-shot-2](assets/app-shot-2.png) | ![app-shot-4](assets/app-shot-4.png) |
 
 *Descriptions pending — screenshots added first, notes coming.*
 
