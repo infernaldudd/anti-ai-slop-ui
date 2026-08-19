@@ -42,12 +42,15 @@ Copy the `anti-ai-slop/` folder (with `SKILL.md`) into `~/.claude/skills/` or `~
 
 Project screenshots showing the skill applied — add yours here.
 
-| Project | Screenshot | Notes |
-|---|---|---|
-| Workspace / desktop setup | [workspace-desktop-1.png](assets/workspace-desktop-1.png) | Dark flowing-lines wallpaper, minimal dock (OBS Studio, DaVinci Resolve), menu-bar system stats (CPU/GPU/network), project folders |
-| Workspace / desktop setup | [workspace-desktop-2.png](assets/workspace-desktop-2.png) | Same dark theme, dock with OBS/Resolve, system stats overlay (CPU/GPU/FPS/temp/battery), project folders |
+### Desktop setup — before / after
 
-*Note: these are desktop workspace shots, not product UI — dark-theme desktop taste reference.*
+Top-half crops of the workspace desktop (wallpaper + menu bar region), before and after:
+
+| Before | After |
+|---|---|
+| ![before](assets/before.png) | ![after](assets/after.png) |
+
+*Dark-theme desktop taste reference — workspace shots, not product UI.*
 
 ## Credits
 
