@@ -46,6 +46,10 @@ Project screenshots showing the skill applied — add yours here.
 |---|---|---|
 | _coming soon_ | | |
 
+## Credits
+
+Skill text authored with ChatGPT GPT-5.6 Sol High and DeepSeek V4 Flash (OpenCode).
+
 ## License
 
 MIT

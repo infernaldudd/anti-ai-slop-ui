@@ -301,3 +301,7 @@ Ask: "What should this particular product look and feel like, and why?"
 A restrained, functional, distinctive interface is preferable to an impressive-looking collection of current design trends.
 
 If the first result looks "AI generated", iterate before considering the design finished.
+
+---
+
+*Skill text authored with ChatGPT GPT-5.6 Sol High and DeepSeek V4 Flash (OpenCode).*
