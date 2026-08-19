@@ -44,7 +44,10 @@ Project screenshots showing the skill applied — add yours here.
 
 | Project | Screenshot | Notes |
 |---|---|---|
-| _coming soon_ | | |
+| Workspace / desktop setup | [workspace-desktop-1.png](assets/workspace-desktop-1.png) | Dark flowing-lines wallpaper, minimal dock (OBS Studio, DaVinci Resolve), menu-bar system stats (CPU/GPU/network), project folders |
+| Workspace / desktop setup | [workspace-desktop-2.png](assets/workspace-desktop-2.png) | Same dark theme, dock with OBS/Resolve, system stats overlay (CPU/GPU/FPS/temp/battery), project folders |
+
+*Note: these are desktop workspace shots, not product UI — dark-theme desktop taste reference.*
 
 ## Credits
 
